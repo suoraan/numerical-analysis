@@ -12,3 +12,7 @@
 ## Integral   
 
 是部分数值积分代码，包括复化梯形、Simpson、Romberg
+
+## PROJECT
+
+是大作业的文件夹，用的是matlab
