@@ -8,3 +8,7 @@
 ## LinearEqs
 
 是一些计算线性方程组的方法，包括常见的高斯、雅各比迭代等，详见文件夹内Readme
+
+## Integral   
+
+是部分数值积分代码，包括复化梯形、Simpson、Romberg
