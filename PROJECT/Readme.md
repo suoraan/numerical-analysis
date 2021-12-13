@@ -6,7 +6,7 @@
 ## P1P2int.m
 求Problem 1/2的积分   
 
-##P1P2RE.m
+## P1P2RE.m
 求Problem 1/2的插值余项和积分余项   
 
 ## P3.m
